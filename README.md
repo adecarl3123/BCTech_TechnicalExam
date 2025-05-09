@@ -39,6 +39,10 @@ Deleting an Employee:
 Once confirmed:
 ![image](https://github.com/user-attachments/assets/710d1dc7-ddb1-4199-b9b3-e7048535950b)
 
+Swagger UI:
+![image](https://github.com/user-attachments/assets/237aa31a-3e9f-4c81-9fe7-07380aa084cb)
+
+
 
 
 
